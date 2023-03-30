@@ -1,0 +1,137 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "title": "Web Design",
+    "tutor": {
+      "name": "Jimmy Dane"
+    },
+    "img": "https://i.ibb.co/51vS0WX/web-design.jpg",
+    "description": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd155d4gdb6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "02",
+    "rating": { "number": 4.9, "badge": "Excellent" },
+    "title": "Web Development with PHP",
+    "tutor": {
+      "name": "Sam Curran"
+    },
+    "img": "https://i.ibb.co/8DCNr9D/php.jpg",
+    "description": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services."
+  },
+  {
+    "_id": "0282e0e58a5c54grh54bd155d4gdb6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "02",
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "title": "Web Development with REACT",
+    "tutor": {
+      "name": "Siyam saeed Noor"
+    },
+    "img": "https://i.ibb.co/ggDgtgJ/react.jpg",
+    "description": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services."
+  },
+  {
+    "_id": "0282e0e5c54sd4grh54bd155d4gdb6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "02",
+    "rating": { "number": 4.6, "badge": "Excellent" },
+    "title": "Web Development with MERN",
+    "tutor": {
+      "name": "Bablu Programmer"
+    },
+    "img": "https://i.ibb.co/0Qj8XS3/marn-stack.jpg",
+    "description": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services."
+  },
+  {
+    "_id": "0282e0e59fg5954gf4bd155d4gdb6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "03",
+    "rating": { "number": 4.6, "badge": "Excellent" },
+    "title": "Graphic Design",
+    "tutor": {
+      "name": "Random Jalil"
+    },
+    "img": "https://i.ibb.co/FhPDw6r/graphic-design.jpg",
+    "description": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services."
+  },
+  {
+    "_id": "0282e065g4sd6gf4bd155d4gdb6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "04",
+    "rating": { "number": 4.6, "badge": "Excellent" },
+    "title": "SEO",
+    "tutor": {
+      "name": "Neil Patel Junior"
+    },
+    "img": "https://i.ibb.co/jkCD5jT/seo.jpg",
+    "description": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services."
+  },
+  {
+    "_id": "02de35sd2e065g4sd6gf4bd155d4g",    
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "05",
+    "rating": { "number": 4.7, "badge": "Excellent" },
+    "title": "App Development",
+    "tutor": {
+      "name": "Abrar Khandakar"
+    },
+    "img": "https://i.ibb.co/7yHqPht/app.jpg",
+    "description": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services."
+  },
+  {
+    "_id": "54deg45g4sd6gf4bd155d4gdb6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "06",
+    "rating": { "number": 4.6, "badge": "Excellent" },
+    "title": "Digital Marketing",
+    "tutor": {
+      "name": "Shagar Jahan"
+    },
+    "img": "https://i.ibb.co/dMd6J3p/digital-marketing.jpg",
+    "description": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services."
+  },
+  {
+    "_id": "5554ge45g4sd6gf4bd155d4gdb6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "07",
+    "rating": { "number": 4.6, "badge": "Excellent" },
+    "title": "Auto CAD",
+    "tutor": {
+      "name": "Munna Shaker"
+    },
+    "img": "https://i.ibb.co/mC861QL/autocad.jpg",
+    "description": "Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services."
+  }
+]

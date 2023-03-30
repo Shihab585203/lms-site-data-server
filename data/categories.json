@@ -1,0 +1,34 @@
+[
+    {
+      "id": "01",
+      "category_name": "Web Design"
+    },
+    {
+      "id": "02",
+      "category_name": "Web Development"
+    },
+    {
+      "id": "03",
+      "category_name": "Graphics Design"
+    },
+    {
+      "id": "04",
+      "category_name": "SEO"
+    },
+    {
+      "id": "05",
+      "category_name": "App Development"
+    },
+    {
+      "id": "06",
+      "category_name": "Digital Marketing"
+    },
+    {
+      "id": "07",
+      "category_name": "Auto CAD"
+    },
+    {
+      "id": "08",
+      "category_name": "All"
+    }
+  ]
